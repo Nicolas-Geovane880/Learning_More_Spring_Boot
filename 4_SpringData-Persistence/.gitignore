@@ -26,10 +26,6 @@ Desktop.ini
 .m2/
 
 .env
-application*.properties
-application*.yml
-!application.properties.example
-!application.yml.example
 
 test-reports/
 coverage/
