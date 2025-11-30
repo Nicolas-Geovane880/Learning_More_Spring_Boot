@@ -1,0 +1,2 @@
+ALTER TABLE `person`
+ADD COLUMN gender VARCHAR (15) NULL;
